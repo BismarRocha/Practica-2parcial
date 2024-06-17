@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ListaCSE
+comment1.params=dato
+comment1.target=Nodo(int)
+comment2.params=dato
+comment2.target=void\ agregar(int)
+comment3.params=actual\ previo\ indiceActual\ indiceObjetivo
+comment3.target=Nodo[]\ encontrarNodo(Nodo,\ Nodo,\ int,\ int)
+comment4.params=i\ j
+comment4.target=void\ intercambiar(int,\ int)
+comment5.params=
+comment5.target=java.lang.String[]\ imprimir()
+numComments=6

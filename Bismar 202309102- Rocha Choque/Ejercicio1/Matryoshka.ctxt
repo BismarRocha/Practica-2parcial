@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Matryoshka
+comment1.params=s
+comment1.target=void\ construirS(java.lang.String[])
+comment2.params=s
+comment2.target=java.lang.String[][]\ ordenar(java.lang.String[])
+comment3.params=i\ n
+comment3.target=java.lang.String\ recolectar(int,\ int)
+comment4.params=n
+comment4.target=java.lang.String[]\ llenadoC(int)
+comment5.params=array\ index
+comment5.target=java.lang.String[]\ remove(java.lang.String[],\ int)
+numComments=6
